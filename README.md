@@ -10,7 +10,7 @@ Este proyecto consiste en el desarrollo de una página web corporativa como part
 |------------------------|-----------------------|------------------------------------------|
 | Paula Arroyo Ajenjo    | Polita86              | [github.com/Polita86](https://github.com/Polita86) |
 | Kevin Crespo Romero    | KevinCrespoUNIR       | [github.com/KevinCrespoUNIR](https://github.com/KevinCrespoUNIR) |
-| Adrián Muñoz Rodríguez | RamsesR               | [github.com/RamsesR](https://github.com/RamsesR) |
+| Adrián Muñoz Rodríguez | RamsesMR               | [github.com/RamsesR](https://github.com/RamsesMR) |
 
 ## Objetivos
 
